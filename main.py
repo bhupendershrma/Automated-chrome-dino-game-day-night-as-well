@@ -43,7 +43,7 @@ if __name__ == "__main__":
             for j in range(400, 470):
                 data[i, j] = 0
         
-        # Draw the rectangle for checking day or night
+        # Draw the rectangle for checking its a day or night
         for i in range(240, 270):
             for j in range(550, 560):
                 data[i, j] = 171

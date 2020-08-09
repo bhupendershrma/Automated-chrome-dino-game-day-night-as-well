@@ -37,7 +37,7 @@ if __name__ == "__main__":
         isCollide(data)
             
         # print(asarray(image))
-        
+        '''
         # Draw the rectangle for cactus
         for i in range(340, 420):
             for j in range(400, 470):
@@ -50,4 +50,4 @@ if __name__ == "__main__":
 
         image.show()
         break
-      
+        '''
